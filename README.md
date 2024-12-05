@@ -1,3 +1,3 @@
 # Advent of Code 2024 - Day 2
 
-ruby reactor.rb
+Day 2: Red-Nosed Reports - Lua
